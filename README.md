@@ -1,2 +1,5 @@
 # FundamentosDeJavaScript
 https://platzi.com/clases/fundamentos-javascript/
+***Class#1**
+    ***Bienvenidos al Curso de Fundamentos de JavaScript***
+        A lo largo del curso aprenderemos las bases sólidas para dominar el lenguaje JavaScript. Veremos desde lo más básico como: variables, tipos de datos y operadores, e iremos avanzando con los condicionales y las estructuras de control. Luego veremos los conceptos relacionados con asincronismo, uno de los aspectos fundamentales de JavaScript, usando callbacks, promesas y async await. Y finalmente crearemos un juego de Simón dice en el que pondremos en práctica todo lo aprendido.
