@@ -32,3 +32,9 @@ console.log('\nNumbers:');
     console.log(`           age = ${age=age+0.3*0.333}  \n           parseFloat(age) = ${parseFloat(age)}` );
     console.log('    division /:  ');
     console.log(`           age = ${age}  \n           age/2 = ${(age/2).toFixed(100)}` );
+
+console.log('\nFunctions:');
+    function printAge(name, age){
+        console.log(`           ${name.toUpperCase()} is ${age.toFixed(1)} years old`);
+    }
+    printAge(`${name}`, age);
