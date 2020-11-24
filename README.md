@@ -20,6 +20,15 @@ https://platzi.com/clases/fundamentos-javascript/
         var nombreCompleto =  nombre + ’  ’ + apellido
         ***Desafío:***
              Encuentra la última letra de su nombre
+***Class#5***
+    En esta clase aprenderemos variables de tipo números y las operaciones más comunes en este tipo de variables.
+    ***En esta clase veremos operadores matemáticos como:***
+        => suma ( + )
+        => resta ( - )
+        => multiplicación
+        => división
+    Recerda que en operaciones con decimales debemos realizar operaciones adicionales para conseguir un resultado preciso. Ej. var total  = ( precioDeVino * 100 * 3) / 100
+    ***Para redondear una operación se utiliza la función: Math.round***
 ***Links***
     First steps:
         https://github.com/gsuscastellanosSC/FundamentosDeJavaScript/blob/main/js/firstSteps.js
