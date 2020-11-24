@@ -1,0 +1,2 @@
+var name = ' Jesús', lastName = ' Castellanos', age = 29, weight = ' 70 kg';
+console.log('Hello World. \nI\'am' + name + lastName + '\nI have ' + age + ' years old.' + ' \nwith a weight of:' + weight);
