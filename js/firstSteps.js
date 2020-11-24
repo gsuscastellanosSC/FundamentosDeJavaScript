@@ -38,3 +38,9 @@ console.log('\nFunctions:');
         console.log(`           ${name.toUpperCase()} is ${age.toFixed(1)} years old`);
     }
     printAge(`${name}`, age);
+
+console.log('\nScope the of Functions:');
+    function allLowerCaseExceptTheFirstLetter(n){
+        console.log(`           ${n.substr(0,2) + n.toLowerCase().substr(2,n.length-1)}`);
+    }
+    allLowerCaseExceptTheFirstLetter(name);

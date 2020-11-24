@@ -36,6 +36,12 @@ https://platzi.com/clases/fundamentos-javascript/
         Delimitamos el cuerpo de la función usando llaves { }. Los parámetros de la función son variables que se pasan a la función escribíendolos entre paréntesis ()
 
         Definir funciones nos sirve para reutilizar código. JavaScript es un lenguaje interpretado, esto quiere decir que intentará ejecutar el código sin importar si los parámetros que le pasemos a la función estén invertidos o incluso incompletos.
+***Class#7***
+    En esta clase hablaremos del alcance que tienen las funciones. Si una variable no está definida dentro del cuerpo de una función hablamos de una variable global. Por el contrario, una variable definida dentro de una función es una variable local.
+    
+    Para que la ejecución de una función no modifique una variable global usamos parámetros en lugar de pasar directamente la variable.
+    
+    Es posible utilizar el mismo nombre para una variable global y para el parámetro de una función con un alcance local.
 ***Links***
     First steps:
         https://github.com/gsuscastellanosSC/FundamentosDeJavaScript/blob/main/js/firstSteps.js
